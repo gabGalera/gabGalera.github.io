@@ -28,3 +28,12 @@ body {
     color: chartreuse;
 }
 
+#foto {
+    float: left;
+}
+
+#nome {
+    position: relative;
+    text-align: center;    
+}
+
