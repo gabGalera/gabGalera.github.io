@@ -1,0 +1,23 @@
+h1, #Descrição, #Habilidades {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background-color: green;
+}
+
+strong {
+    color: white;
+}
+
+#hab1 {
+    font-size: large;
+}
+
+#hab2 {
+    font-size:medium;
+}
+
+#hab3 {
+    font-size: small;
+}
